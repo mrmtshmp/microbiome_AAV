@@ -1,0 +1,66 @@
+$detected_microbes
+  [1] "p__mixed.g__"                           "p__Firmicutes.g__Acetivibrio"          
+  [3] "p__Proteobacteria.g__Achromobacter"     "p__Firmicutes.g__Acidaminococcus"      
+  [5] "p__Proteobacteria.g__Acidovorax"        "p__Proteobacteria.g__Acinetobacter"    
+  [7] "p__Proteobacteria.g__Actinobacillus"    "p__Actinobacteria.g__Actinomyces"      
+  [9] "p__Actinobacteria.g__Adlercreutzia"     "p__Firmicutes.g__Aerococcus"           
+ [11] "p__Proteobacteria.g__Aggregatibacter"   "p__Verrucomicrobia.g__Akkermansia"     
+ [13] "p__Bacteroidetes.g__Alistipes"          "p__Proteobacteria.g__Alkalimonas"      
+ [15] "p__Actinobacteria.g__Alloscardovia"     "p__Firmicutes.g__Anaerobacillus"       
+ [17] "p__Firmicutes.g__Anaerococcus"          "p__Firmicutes.g__Anaerofustis"         
+ [19] "p__Firmicutes.g__Anaerostipes"          "p__Firmicutes.g__Anaerotruncus"        
+ [21] "p__Firmicutes.g__Anaerovorax"           "p__Proteobacteria.g__Aquamonas"        
+ [23] "p__Actinobacteria.g__Arcanobacterium"   "p__Actinobacteria.g__Arthrobacter"     
+ [25] "p__Tenericutes.g__Asteroleplasma"       "p__Actinobacteria.g__Atopobium"        
+ [27] "p__Firmicutes.g__Bacillus"              "p__Bacteroidetes.g__Bacteroides"       
+ [29] "p__Actinobacteria.g__Bifidobacterium"   "p__Proteobacteria.g__Bilophila"        
+ [31] "p__Firmicutes.g__Blautia"               "p__Proteobacteria.g__Brachymonas"      
+ [33] "p__Spirochaetes.g__Brachyspira"         "p__Proteobacteria.g__Brenneria"        
+ [35] "p__Firmicutes.g__Brevibacillus"         "p__Tenericutes.g__Bulleidia"           
+ [37] "p__Proteobacteria.g__Burkholderia"      "p__Proteobacteria.g__Buttiauxella"     
+ [39] "p__Firmicutes.g__Butyrivibrio"          "p__Proteobacteria.g__Campylobacter"    
+ #######################TRUNCATED##############################################
+
+$structural_zeros
+                                          Microbe US VEN MA
+1                                    p__mixed.g__  1   1  1
+2                        p__Planctomycetes.g__A17  0   0  0
+3                    p__Firmicutes.g__Abiotrophia  1   1  1
+4                    p__Firmicutes.g__Acetivibrio  1   1  1
+5                p__Proteobacteria.g__Acetobacter  0   1  0
+6                 p__Firmicutes.g__Acetobacterium  0   0  0
+7                p__Proteobacteria.g__Achromatium  0   1  0
+8              p__Proteobacteria.g__Achromobacter  1   1  0
+9                p__Firmicutes.g__Acidaminococcus  1   1  1
+10              p__Proteobacteria.g__Acidiphilium  0   0  0
+11                 p__Proteobacteria.g__Acidisoma  0   0  0
+12                p__Proteobacteria.g__Acidomonas  0   0  0
+13                p__Proteobacteria.g__Acidovorax  1   1  1
+14             p__Proteobacteria.g__Acinetobacter  1   1  1
+15           p__Actinobacteria.g__Actinoallomurus  0   0  0
+16         p__Actinobacteria.g__Actinoalloteichus  0   0  0
+17            p__Proteobacteria.g__Actinobacillus  1   1  1
+18             p__Actinobacteria.g__Actinobaculum  0   0  0
+19            p__Actinobacteria.g__Actinocorallia  0   0  0
+20          p__Actinobacteria.g__Actinokineospora  0   0  0
+21              p__Actinobacteria.g__Actinomadura  0   0  1
+22               p__Actinobacteria.g__Actinomyces  1   1  1
+23         p__Actinobacteria.g__Actinomycetospora  0   1  0
+24              p__Actinobacteria.g__Actinoplanes  0   1  0
+25               p__Actinobacteria.g__Actinotalea  0   0  0
+26              p__Bacteroidetes.g__Adhaeribacter  0   0  0
+27             p__Actinobacteria.g__Adlercreutzia  1   1  1
+28                    p__Firmicutes.g__Aerococcus  1   1  1
+29             p__Actinobacteria.g__Aeromicrobium  0   1  0
+30                 p__Proteobacteria.g__Aeromonas  1   1  1
+31                    p__Proteobacteria.g__Afipia  0   0  0
+32           p__Proteobacteria.g__Aggregatibacter  1   1  1
+33             p__Proteobacteria.g__Agrobacterium  1   1  0
+34                p__Actinobacteria.g__Agrococcus  0   0  0
+35                 p__Actinobacteria.g__Agromyces  0   1  0
+36              p__Verrucomicrobia.g__Akkermansia  1   1  1
+37               p__Proteobacteria.g__Alcaligenes  0   0  0
+38               p__Proteobacteria.g__Alcanivorax  0   0  0
+39               p__Bacteroidetes.g__Algoriphagus  0   1  0
+40            p__Proteobacteria.g__Alicycliphilus  0   1  0
+#######################TRUNCATED##############################################
